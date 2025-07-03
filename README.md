@@ -1,5 +1,5 @@
-#Project Description
+# Project Description
 A web-based basic calculator that performs addition, subtraction, multiplication and division.
 
-#Technologies Used
+# Technologies Used
 HTML | CSS | JavaScript
