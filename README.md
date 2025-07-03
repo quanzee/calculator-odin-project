@@ -1,5 +1,8 @@
+# Quanzee's Calculator
+Link: https://quanzee.github.io/calculator-odin-project/
+
 # Project Description
-A web-based calculator that performs basic arithmetic operations such as addition, subtraction, multiplication and division.
+A web-based sassy calculator that performs basic arithmetic operations such as addition, subtraction, multiplication and division.
 
 # Features
 * **Basic operations**: + - x ÷
